@@ -1,7 +1,8 @@
 ---
-title: "Optical Character Recognition"
+title: "[Projects] : Optical Character Recognition"
 date: 2016-04-10 22:10
 tags: [Machine Learning,OCR,Tensorflow,Neural Network]
+categories: [Projects]
 ---
 
 This was a simple project done in association with Programming Club at IIT Kanpur where we implemented a Convolutional Neural Network with softmax regression using [Tensorflow](https://www.tensorflow.org/), Google's Machine learning library , for classification of handwritten digits using the MNIST dataset. 

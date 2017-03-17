@@ -1,7 +1,8 @@
 ---
-title: "Fraud Detection from Enron emails dataset"
+title: "[Projects] : Fraud Detection from Enron emails dataset"
 date: 2016-11-10 22:10
 tags: [NLP,Enron,LDA,CS671]
+categories: [Projects]
 ---
 
 This Project was done during the course **CS671:Natural Language Processing** under Professor Harish Karnick at IIT Kanpur.

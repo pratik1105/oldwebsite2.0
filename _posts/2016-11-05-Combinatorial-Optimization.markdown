@@ -1,7 +1,8 @@
 ---
-title: "Combinatorial Optimization"
+title: "[Projects] : Combinatorial Optimization"
 date: 2016-11-05 22:10
 tags: [Optimization,Travelling salesman,Flow,CS774]
+categories: [Projects]
 ---
 This Project was done during the course **CS774:Optimization Techniques** under Professor Purushottam Kar at IIT Kanpur.
 
